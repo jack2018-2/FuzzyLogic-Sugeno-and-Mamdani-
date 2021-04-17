@@ -1,0 +1,7 @@
+C:\Users\jack2\source\repos\FuzzyLogicLab\FuzzyLogicLab\bin\Debug\FuzzyLogicLab.exe.config
+C:\Users\jack2\source\repos\FuzzyLogicLab\FuzzyLogicLab\bin\Debug\FuzzyLogicLab.exe
+C:\Users\jack2\source\repos\FuzzyLogicLab\FuzzyLogicLab\bin\Debug\FuzzyLogicLab.pdb
+C:\Users\jack2\source\repos\FuzzyLogicLab\FuzzyLogicLab\obj\Debug\FuzzyLogicLab.csprojAssemblyReference.cache
+C:\Users\jack2\source\repos\FuzzyLogicLab\FuzzyLogicLab\obj\Debug\FuzzyLogicLab.csproj.CoreCompileInputs.cache
+C:\Users\jack2\source\repos\FuzzyLogicLab\FuzzyLogicLab\obj\Debug\FuzzyLogicLab.exe
+C:\Users\jack2\source\repos\FuzzyLogicLab\FuzzyLogicLab\obj\Debug\FuzzyLogicLab.pdb
